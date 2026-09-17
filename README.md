@@ -40,4 +40,3 @@
 3. Para cada conductor, calcular e imprimir sus 3 grados de membresía (novato, intermedio, experto).
 4. Determinar algorítmicamente (con `max()`) en qué categoría encaja mejor cada conductor.
 
-Ver [`taller_laboratorio.py`](taller_laboratorio.py).
