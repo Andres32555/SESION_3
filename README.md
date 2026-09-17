@@ -4,12 +4,12 @@
 
 **Conjunto difuso "Temperatura Agradable"** (función triangular, vértices `a=18°C, b=22°C, c=26°C`):
 
-```
+
 μ(x) = 0,               si x <= a
 μ(x) = (x - a) / (b - a), si a < x <= b
 μ(x) = (c - x) / (c - b), si b < x < c
 μ(x) = 0,               si x > c
-```
+
 
 ### Paso 1 — x = 20°C (rampa de subida, a < x <= b)
 
